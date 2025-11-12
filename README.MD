@@ -95,9 +95,10 @@ Las columnas `PULocationID` y `DOLocationID` representan zonas geográficas codi
 |------|-----|
 | **ETL_NYC_Taxis.ipynb**| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CHardy21/DA_NYC_Taxis_Yellow_LAB/blob/main/notebooks/ETL_NYC_Taxis.ipynb)
  |
-| **EDA_NYC_Taxis.ipynb** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CHardy21/DA_NYC_Taxis_Yellow_LAB/blob/main/notebooks/EDA_NYC_Taxis.ipynb)
- | 
-|------|-----|
+| **EDA_NYC_Taxis.ipynb**| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CHardy21/DA_NYC_Taxis_Yellow_LAB/blob/main/notebooks/EDA_NYC_Taxis.ipynb)
+ |
+
+
 
 
 

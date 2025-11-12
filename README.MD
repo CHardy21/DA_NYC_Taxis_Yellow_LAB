@@ -10,7 +10,8 @@ Este laboratorio explora el dataset público de viajes en taxi amarillo de la ci
 - **URL:** https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 - **Formato:** CSV
 - **Tamaño estimado:** ~1–2 GB por mes
-- **Año analizado:** 2023 (puede ajustarse)
+- **Año analizado:** 2025 (mes de enero)
+- **Link del DF:** https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-01.parquet
 
 ---
 
@@ -87,6 +88,17 @@ Las columnas `PULocationID` y `DOLocationID` representan zonas geográficas codi
 - Analisis Geográfico
 
 ---
+
+## 🔗 Abrir en Colab
+
+| Archivos | Link |
+|------|-----|
+| **ETL_NYC_Taxis.ipynb**| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CHardy21/DA_NYC_Taxis_Yellow_LAB/blob/main/notebooks/ETL_NYC_Taxis.ipynb)
+ |
+| **EDA_NYC_Taxis.ipynb** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CHardy21/DA_NYC_Taxis_Yellow_LAB/blob/main/notebooks/EDA_NYC_Taxis.ipynb) |
+
+
+
 
 ## 🧠 Créditos y fuentes
 

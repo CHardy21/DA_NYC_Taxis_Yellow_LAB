@@ -10,6 +10,6 @@ def set_project_root():
     root = Path(__file__).resolve().parent
     if str(root) not in sys.path:
         sys.path.insert(0, str(root))
-        print(f"✅ sys.path configurado con raíz del proyecto: {root}")
+        print(f"✔️ sys.path configurado con raíz del proyecto: {root}")
     else:
-        print(f"ℹ️ sys.path ya contiene la raíz: {root}")
+        print(f"✔️ sys.path ya contiene la raíz: {root}")

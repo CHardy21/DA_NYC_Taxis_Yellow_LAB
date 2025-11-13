@@ -1,6 +1,6 @@
 # config.py (en NYC_Taxi_Lab)
 from pathlib import Path
-import sys
+import sys, os
 
 def set_project_root():
     """
@@ -13,3 +13,6 @@ def set_project_root():
         print(f"✔️ sys.path configurado con raíz del proyecto: {root}")
     else:
         print(f"✔️ sys.path ya contiene la raíz: {root}")
+
+def get_project_root():
+    return os.path.dirname(os.path.abspath(__file__))
